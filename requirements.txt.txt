@@ -1,0 +1,8 @@
+
+## Requirements
+- Python 3.x
+- PyTorch
+- Transformers (Hugging Face)
+- LoRA/QLoRA libraries
+- FAISS (if applicable for embedding)
+
